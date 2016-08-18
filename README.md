@@ -2,6 +2,7 @@
 
 Script is using:
 - bash
+- curl
 - python 2.7 or older with json module
 - awk
 
